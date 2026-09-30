@@ -3,11 +3,11 @@
   "version": "1.1.0",
   "description": "Ethereum development skills — corrects LLM blind spots on gas costs, L2s, CROPS trust review (Censorship Resistance, Open Source and Free, Privacy, Security), DeFi protocols, security, and the current tool landscape.",
   "author": {
-    "name": "Austin Griffith",
-    "url": "https://github.com/austintgriffith"
+    "name": "marisol feliciano",
+    "url": "https://github.com/marisolfeliciano"
   },
   "homepage": "https://ethskills.com",
-  "repository": "https://github.com/austintgriffith/ethskills",
+  "repository": "https://github.com/marisolfeliciano/stablecoineth",
   "license": "MIT",
   "keywords": ["ethereum", "solidity", "defi", "web3", "blockchain", "scaffold-eth"],
   "skills": [
