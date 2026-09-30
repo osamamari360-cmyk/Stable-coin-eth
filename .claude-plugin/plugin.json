@@ -24,7 +24,7 @@
     "./orchestration",
     "./addresses",
     "./concepts",
-    "./security",
+    "./security",python
     "./testing",
     "./indexing",
     "./frontend-ux",
